@@ -42,8 +42,8 @@
  <br>
   <b>Trip location </b> <br id="trip">
   <label for="Trip">
-    Masauri<input type="checkbox" value="Masauri" name="Masauri" id="Trip">
-    Shimla<input type="checkbox" value="shimla" name="shimla id=" trip"="">
+    Masauri <input type="checkbox" value="Masauri" name="Masauri" id="Trip">
+    Shimla <input type="checkbox" value="shimla" name="shimla"  id= "trip">
     Uttrakhand<input type="checkbox" value="Uttrakand" name="Uttrakand" id="Trip">
     Ladakh<input type="checkbox" value="Ladakh" name="Ladakh" id="Trip">
 

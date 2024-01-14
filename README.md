@@ -34,10 +34,10 @@
 
  <b>City Option </b> <br id="city">
  <label for="City">
-     Haryana <input type="radio" value="Haryana" name=" haryana" id="City">
-     Delhi <input type="radio" value="delhi" name=" delhi" id="City">
-     Gurgaon <input type="radio" value="Gurgaon" name=" Gurgaon" id="City">
-     dubai <input type="radio" value="dubai" name=" dubai" id="City">
+     Haryana <input type="radio" value="Haryana" name=" city" id="City">
+     Delhi <input type="radio" value="delhi" name=" city" id="City">
+     Gurgaon <input type="radio" value="Gurgaon" name=" city" id="City">
+     dubai <input type="radio" value="dubai" name=" city" id="City">
     </label> 
  <br>
   <b>Trip location </b> <br id="trip">
